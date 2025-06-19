@@ -7,7 +7,7 @@ SimHub DDU 10" Ferrari 296 GT3 2023
 1920x720 pixel
 # Infos
 
-Erstellung eines Simracing Dash für eine DDU10 vom Ferrari 296 GT3 2023. Orientierung an Orginalem Dash aus dem Fahrzeug und dann Anpassungen für das Simracing.
+Erstellung eines Simracing Dash für eine DDU10 vom Ferrari 296 GT3 2023. Orientierung an orginalem Dash aus dem Fahrzeug und dann Anpassungen für das Simracing.
 
 # Screens
 > Idle
